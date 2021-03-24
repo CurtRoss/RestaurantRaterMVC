@@ -241,6 +241,7 @@
       <BrowseToURL>~/Restaurant/Index</BrowseToURL>
     </Content>
     <Content Include="Views\Restaurant\Index.cshtml" />
+    <Content Include="Views\Restaurant\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
